@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: 18;
+    padding: 0c;
+}
+div{
+    height:100vh;
+    display: flex;
+    justify-content: center;
+    align-items: left;
+}
+.dog{
+    width: 400px;
+    clip-path: circle();
+}
